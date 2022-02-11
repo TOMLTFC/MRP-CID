@@ -283,8 +283,8 @@
     "notes":"NHS Life",
 	"wiki_link":"https://ibb.co/QdxDmD6",
     "order":2,
-	"strokecolor":"#FFC0CB",
-	"fillcolor":"#fff",
+	"strokecolor":"#0000FF",
+	"fillcolor":"#0000FF",
     "latlngarray": [
 		{"lat": 67.728, "lng": -121.734},
 		{"lat": 67.485, "lng": -122.000},
@@ -298,7 +298,7 @@
     "title":"Mission Row PD",
     "notes":"The biggest gang in the city",
     "order":2,
-	"strokecolor":"#FF0000",
+	"strokecolor":"#0000FF",
 	"fillcolor":"#0000FF",
     "latlngarray": [
 		{"lat": 66.151, "lng": -120.516},
