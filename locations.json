@@ -159,8 +159,8 @@
     "notes":"Currently on a cool down from the city, may return",
 	"wiki_link":"https://yt3.ggpht.com/a/AATXAJzEFCiki8pMUU5WLxlLDzCs8r2qqWhAUfn0rQ=s900-c-k-c0xffffffff-no-rj-mo",
     "order":2,
-	"strokecolor":"#000000",
-	"fillcolor":"#ffffff",
+	"strokecolor":"#ff0000",
+	"fillcolor":"#ff0000",
     "latlngarray": [
       {"lat": 70.112, "lng": -126.772},
       {"lat": 70.581, "lng": -126.718},
