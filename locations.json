@@ -365,7 +365,7 @@
   },
     {
     "id":25,
-    "type":"Territory Areas",
+    "type":"Gang Territory",
     "title":"Sandy Shores",
     "notes":"Don't get robbed by the bikers, also watch for angry locals.",
     "order":2,
@@ -384,7 +384,7 @@
   },
   {
     "id":19,
-    "type":"Neutral Zones",
+    "type":"Illegal Activity",
     "title":"Pink Cage Motel",
     "notes":"Prime time hostage taking",
     "order":2,
@@ -448,7 +448,7 @@
     "type":"Neutral Zones",
     "title":"Vanilla Unicorn",
     "notes":"Now owned by Nino Chavez, the VU is a new southside netural zone.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Vanilla_Unicorn_Strip_Club",
+	"wiki_link":"https://gta.fandom.com/wiki/Vanilla_Unicorn",
     "order":2,
 	"strokecolor":"#FFC0CB",
 	"fillcolor":"#800080",

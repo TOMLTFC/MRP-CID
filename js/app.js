@@ -144,13 +144,19 @@ $(function() {
 
 	var categories = window.cats = new CategoriesCollection([
 		{
-			name: 'Territory Areas',
+			name: 'Gang Territory',
 			icon: 'General/wall-breach.png',
 			type: 'General',
 			enabled: true
 		},
 		{
 			name: 'Neutral Zones',
+			icon: 'General/wall-breach.png',
+			type: 'General',
+			enabled: true
+		},
+		{
+			name: 'Illegal Activity',
 			icon: 'General/wall-breach.png',
 			type: 'General',
 			enabled: true
