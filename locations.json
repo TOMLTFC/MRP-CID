@@ -282,21 +282,6 @@
 	]
   },
   {
-    "id":29,
-    "type":"MRP Locations",
-    "title":"Integrity Tower",
-    "notes":"The upgraded apartments for high-class citizens.",
-    "order":2,
-	"strokecolor":"#FFC0CB",
-	"fillcolor":"#000000",
-    "latlngarray": [
-{"lat": 67.477, "lng": -122.005},
-{"lat": 67.334, "lng": -122.170},
-{"lat": 67.223, "lng": -121.357},
-{"lat": 67.367, "lng": -121.181}
-]
-  },
-  {
     "id":30,
     "type":"Gang Territory",
     "title":"Legion Square",
