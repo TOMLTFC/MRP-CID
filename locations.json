@@ -151,6 +151,22 @@
 		{"lat": 69.616, "lng": -115.226},
 		{"lat": 69.900, "lng": -114.710}
 	]
+},
+{
+  "id":76,
+  "type":"Illegal Activity",
+  "title":"Test",
+  "notes":"Possible Robbery location as people leave",
+"wiki_link":"https://nopixel.fandom.com/wiki/Korean_Mafia_(Sun_Clan)",
+  "order":2,
+"strokecolor":"#fd5e53",
+"fillcolor":"#fd5e53",
+  "latlngarray": [
+    {"lat": 70.089, "lng": -130.836},
+    {"lat": 70.096, "lng": -129.935},
+    {"lat": 69.783, "lng": -130.001},
+    {"lat": 69.738, "lng": -130.858}
+    ]
   },
   {
     "id":17,
@@ -159,7 +175,7 @@
     "notes":"Currently on a cool down from the city, may return",
 	"wiki_link":"https://yt3.ggpht.com/a/AATXAJzEFCiki8pMUU5WLxlLDzCs8r2qqWhAUfn0rQ=s900-c-k-c0xffffffff-no-rj-mo",
     "order":2,
-	"strokecolor":"#ff0000",
+	"strokecolor":"#000000",
 	"fillcolor":"#ff0000",
     "latlngarray": [
       {"lat": 70.112, "lng": -126.772},
@@ -283,8 +299,8 @@
     "notes":"NHS Life",
 	"wiki_link":"https://ibb.co/QdxDmD6",
     "order":2,
-	"strokecolor":"#0000FF",
-	"fillcolor":"#0000FF",
+	"strokecolor":"#FFC0CB",
+	"fillcolor":"#fff",
     "latlngarray": [
 		{"lat": 67.728, "lng": -121.734},
 		{"lat": 67.485, "lng": -122.000},
@@ -298,7 +314,7 @@
     "title":"Mission Row PD",
     "notes":"The biggest gang in the city",
     "order":2,
-	"strokecolor":"#0000FF",
+	"strokecolor":"#FF0000",
 	"fillcolor":"#0000FF",
     "latlngarray": [
 		{"lat": 66.151, "lng": -120.516},
