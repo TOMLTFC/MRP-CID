@@ -1,7 +1,7 @@
 [
   {
     "id":1,
-    "type":"Territory Areas",
+    "type":"Gang Territory",
     "title":"Lean Bois",
     "notes":"A group of friends now turned street gang. They're up to antics everyday, causing a stir in the south side.",
 	"wiki_link":"https://nopixel.fandom.com/wiki/Lean_Bois",
@@ -18,7 +18,7 @@
   },
   {
     "id":2,
-    "type":"Territory Areas",
+    "type":"Gang Territory",
     "title":"Ballas",
     "notes":"A once forgotten gang, the Ballas were brought to life with the return of Curtis Davis III, however, the Lean Bois are now claiming their long held territory.",
 	"wiki_link":"https://nopixel.fandom.com/wiki/East_Side_Ballaz",
@@ -38,7 +38,7 @@
   },
   {
     "id":3,
-    "type":"Territory Areas",
+    "type":"Gang Territory",
     "title":"Grove Traphouse",
     "notes":"Once owned by the LB, now under Ballas control",
     "order":2,
@@ -53,7 +53,7 @@
   },
   {
     "id":4,
-    "type":"Territory Areas",
+    "type":"Gang Territory",
     "title":"Prune Street",
     "notes":"Claimed by Eugune Zuckerberg, inventor of the frisbee, but not an actual gang area. Respect the name.",
 	"wiki_link":"https://nopixel.fandom.com/wiki/Prune_Gang",
@@ -69,7 +69,7 @@
   },
   {
     "id":5,
-    "type":"Territory Areas",
+    "type":"Gang Territory",
     "title":"Aztecas",
     "notes":"It's a blue world. Or, more like a blue street. Also north side cuh. Controls the Traphouse in the area too",
 	"wiki_link":"https://nopixel.fandom.com/wiki/Aztecas",
@@ -115,7 +115,7 @@
   },
   {
     "id":7,
-    "type":"Territory Areas",
+    "type":"Gang Territory",
     "title":"Vagos",
     "notes":"After the passing of Jesus, Speedy is the new El Jefe and made the Vagos what they are today. His signature line is IM TELLIN YOU PUTO",
 	"wiki_link":"https://nopixel.fandom.com/wiki/Vagos",
@@ -145,7 +145,7 @@
   },
   {
     "id":8,
-    "type":"Territory Areas",
+    "type":"Gang Territory",
     "title":"The Smeltery",
     "notes":"Claimed by the Vagos, although they usually don't hold it down.",
     "order":2,
@@ -168,7 +168,7 @@
   },
   {
     "id":15,
-    "type":"Territory Areas",
+    "type":"Gang Territory",
     "title":"Pawnshop",
     "notes":"Who know who owns this place anymore",
     "order":2,
@@ -186,7 +186,7 @@
   },
   {
     "id":9,
-    "type":"Territory Areas",
+    "type":"Gang Territory",
     "title":"Aztecas East Side",
     "notes":"More territory claimed by Aztecas",
 	"wiki_link":"https://nopixel.fandom.com/wiki/Aztecas",
@@ -205,7 +205,7 @@
   },
   {
     "id":10,
-    "type":"Territory Areas",
+    "type":"Gang Territory",
     "title":"Bondi Boys MC",
     "notes":"Give me a home among the gumtrees. With lots of plum trees. A sheep or two, a k-kangaroo. A clothesline out the back. Verandah out the front. And an old rocking chair",
 	"wiki_link":"https://nopixel.fandom.com/wiki/Bondi_Boys_MC",
@@ -227,7 +227,7 @@
   },
   {
     "id":11,
-    "type":"Territory Areas",
+    "type":"Gang Territory",
     "title":"Little Seoul",
     "notes":"Koreans claimed this area also a popular gas station here.",
 	"wiki_link":"https://nopixel.fandom.com/wiki/Korean_Mafia_(Sun_Clan)",
@@ -246,7 +246,7 @@
   },
   {
     "id":12,
-    "type":"Territory Areas",
+    "type":"Gang Territory",
     "title":"Ace King",
     "notes":"Koreans. Blackjack is hosted here.",
 	"wiki_link":"https://nopixel.fandom.com/wiki/Korean_Mafia_(Sun_Clan)",
@@ -262,7 +262,7 @@
   },
   {
     "id":13,
-    "type":"Territory Areas",
+    "type":"Gang Territory",
     "title":"The Casino",
     "notes":"Koreans, but the casino is not used very much as nothing actually works.",
 	"wiki_link":"https://nopixel.fandom.com/wiki/Korean_Mafia_(Sun_Clan)",
@@ -278,7 +278,7 @@
   },
   {
     "id":14,
-    "type":"Territory Areas",
+    "type":"Gang Territory",
     "title":"Quickfix",
     "notes":"Fill me in :)",
 	"wiki_link":"https://nopixel.fandom.com/wiki/QuickFix_(Clubhouse)",
@@ -294,7 +294,7 @@
   },
   {
     "id":16,
-    "type":"Territory Areas",
+    "type":"Gang Territory",
     "title":"The Russians",
     "notes":"Da Comrade, you may not like us, but you must like vodka. Protecting/taxing the Wizard",
 	"wiki_link":"https://nopixel.fandom.com/wiki/The_Russian_Mafia",
@@ -312,7 +312,7 @@
   },
   {
     "id":17,
-    "type":"Territory Areas",
+    "type":"Gang Territory",
     "title":"H.O.A. / Mirror Park",
     "notes":"Homeowners of Mirror Park. Pay the fee or be harassed out of the neighborhood.",
 	"wiki_link":"https://nopixel.fandom.com/wiki/HOA",
@@ -334,7 +334,7 @@
   },
   {
     "id":18,
-    "type":"Territory Areas",
+    "type":"Gang Territory",
     "title":"The Lost MC",
     "notes":"Moved from the Quickfix clubhouse, the bikers now have a new building in Stab City",
 	"wiki_link":"https://nopixel.fandom.com/wiki/Lost_MC",
@@ -350,7 +350,7 @@
   },
   {
     "id":20,
-    "type":"Territory Areas",
+    "type":"Gang Territory",
     "title":"The Scrapyard",
     "notes":"Shared between the bikers, Ashenfell and BBC at different times of the day",
     "order":2,
@@ -461,7 +461,7 @@
   },
   {
     "id":26,
-    "type":"Territory Areas",
+    "type":"Gang Territory",
     "title":"The Dam",
     "notes":"Claimed by HOA",
     "order":2,
@@ -478,7 +478,7 @@
   },
   {
     "id":27,
-    "type":"Territory Areas",
+    "type":"Gang Territory",
     "title":"Mirror Park Railyard",
     "notes":"Claimed by HOA",
     "order":2,
@@ -526,7 +526,7 @@
   },
   {
     "id":30,
-    "type":"Territory Areas",
+    "type":"Gang Territory",
     "title":"Legion Square",
     "notes":"Claimed by the Misfits, next to Creampie Creations and Cop Killer Records",
     "order":2,
@@ -541,7 +541,7 @@
   },
   {
     "id":31,
-    "type":"Territory Areas",
+    "type":"Gang Territory",
     "title":"DeathDealer MC",
     "notes":"The north is strong.",
     "order":2,
@@ -558,7 +558,7 @@
   },
   {
     "id":32,
-    "type":"Territory Areas",
+    "type":"Gang Territory",
     "title":"El Rancho",
     "notes":"Claimed by the vagos but not currently patrolling.",
     "order":2,
@@ -579,7 +579,7 @@
   },
   {
     "id":33,
-    "type":"Territory Areas",
+    "type":"Gang Territory",
     "title":"Cop Killa Records",
     "notes":"Headquarter and studios of CKR",
     "order":2,
@@ -594,7 +594,7 @@
   },
   {
     "id":34,
-    "type":"Territory Areas",
+    "type":"Gang Territory",
     "title":"The Cemetery",
     "notes":"Claimed by Prune Gang. It's a real monkaW place.",
     "order":2,
@@ -634,7 +634,7 @@
   },
   {
     "id":36,
-    "type":"Territory Areas",
+    "type":"Gang Territory",
     "title":"Vinewood Hills",
     "notes":"Patrolled by the HOA for house robberies",
     "order":2,
@@ -688,7 +688,7 @@
   },
   {
     "id":37,
-    "type":"Territory Areas",
+    "type":"Gang Territory",
     "title":"Oxy Shop",
     "notes":"Who uses this place anyways? KEKW",
     "order":2,
@@ -703,7 +703,7 @@
   },
   {
     "id":38,
-    "type":"Territory Areas",
+    "type":"Gang Territory",
     "title":"Amarillo Vista",
     "notes":"Controlled by the Misfits, Pixie house is here.",
     "order":2,
